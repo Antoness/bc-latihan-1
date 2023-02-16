@@ -1,0 +1,147 @@
+{
+    "landing": {
+        "banner": [
+            "/images/next-js.jpeg",
+            "/images/react-js.jpeg",
+            "/images/vuejs.jpeg"
+        ],
+        "cardItems": [
+            {
+                "title": "React JS",
+                "content": "Proident aute incididunt tempor fugiat adipisicing ad.",
+                "image": "https://miro.medium.com/max/700/1*dLaDL-lSN0iprzmOpmM7zQ.png",
+                "updatedAt": "Rp.3.000.000"
+            },
+            {
+                "title": "Vue JS",
+                "content": "Proident aute incididunt tempor fugiat adipisicing ad.",
+                "image": "https://crocodic.com/wp-content/uploads/2019/02/1_nq9cdMxtdhQ0ZGL8OuSCUQ.jpeg",
+                "updatedAt": "Rp.3.000.000"
+            },
+            {
+                "title": "Next JS",
+                "content": "Proident aute incididunt tempor fugiat adipisicing ad.",
+                "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--g1u_jxZy--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4unrrweuaj1wyh25npgt.jpeg",
+                "updatedAt": "Rp.3.000.000"
+            },
+            {
+                "title": "React Native",
+                "content": "Proident aute incididunt tempor fugiat adipisicing ad.",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFsnfDg_ByjtkdhCwIGArDb4SL733CkS7MZg&usqp=CAU",
+                "updatedAt": "Rp.3.000.000"
+            },
+            {
+                "title": "Node Js",
+                "content": "Proident aute incididunt tempor fugiat adipisicing ad.",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOk_TMdmIllLTpD7NX5GIvDZ23tT2gMso6rw&usqp=CAU",
+                "updatedAt": "Rp.3.000.000"
+            },
+            {
+                "title": "Javascrip",
+                "content": "Proident aute incididunt tempor fugiat adipisicing ad.",
+                "image": "https://www.plastyk.com.au/assets/Uploads/logo-javascript.png",
+                "updatedAt": "Rp.3.000.000"
+            }
+        ],
+        "forYou":[
+            {
+                "title" : "Java",
+                "content": "Do laborum commodo proident labore reprehenderit.",
+                "image" : "https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png",
+                "updatedAt" : "Rp.3.000.000",
+                "del" : "Rp.6.500.000"
+            },
+            {
+                "title" : "PHP",
+                "content": "Eu consectetur mollit sit deserunt est.",
+                "image" : "https://cdn.cdnlogo.com/logos/p/79/php.svg",
+                "updatedAt" : "Free",
+                "del" : "Rp.1.500.000"
+            },
+            {
+                "title" : "Laravel",
+                "content": "Eu consectetur mollit sit deserunt est.",
+                "image" : "https://karedok.net/wp-content/uploads/2018/03/laravel-logo.jpg",
+                "updatedAt" : "Rp.4.000.000",
+                "del" : "Rp.4.500.000"
+            },
+            {
+                "title" : "Mern Stack",
+                "content": "Sint in officia ut irure sint nostrud ad non deserunt esse esse duis.",
+                "image" : "https://gurzu.com/img/gurzu/mern-stack-01.png",
+                "updatedAt" : "Rp.6.000.000",
+                "del" : "Rp.6.500.000"
+            },
+            {
+                "title" : "Golang",
+                "content": "Sint in officia ut irure sint nostrud ad non deserunt esse esse duis.",
+                "image" : "https://miro.medium.com/max/920/1*CdjOgfolLt_GNJYBzI-1QQ.jpeg",
+                "updatedAt" : "Rp.1.000.000",
+                "del" : "Rp.2.500.000"
+            },
+            {
+                "title" : "Python",
+                "content": "Veniam id anim deserunt duis laboris id.",
+                "image" : "https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png",
+                "updatedAt" : "Rp.2.000.000 ",
+                "del" : "Rp.2.500.000"
+            }
+        ],
+        "rating" :[
+            {
+                "name" : "Jimin",
+                "comment" : "Velit sint adipisicing elit voluptate tempor adipisicing proident elit.",
+                "image" :"https://upload.wikimedia.org/wikipedia/commons/8/83/Park_Jimin_at_the_White_House%2C_May_31%2C_2022.jpg"
+            },
+            {
+                "name" : "Namjoon",
+                "comment" : "Excepteur labore id amet nostrud voluptate esse excepteur et excepteur labore do laborum dolore cillum.",
+                "image" :"https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/06/23/1042977498.jpg"
+            },
+            {
+                "name" : "Jisoo",
+                "comment" : "Deserunt ad fugiat dolore eu do do mollit dolor et consequat qui tempor velit..",
+                "image" :"https://asset.kompas.com/crops/gm3X_axryD_NVgtLsJHZbMlL4h0=/0x70:1000x737/750x500/data/photo/2022/01/20/61e91b6f06423.jpg"
+            },
+            {
+                "name" : "Jenny",
+                "comment" : "Aliquip labore exercitation amet ipsum exercitation laboris reprehenderit sit laboris ullamco anim minim dolore nostrud.",
+                "image" :"https://awsimages.detik.net.id/community/media/visual/2022/07/17/jennie-blackpink_43.jpeg?w=700&q=90"
+            }
+        ],
+        "fyp":[
+            {
+                "name" : "Webinar industry bersama fluter",
+                "comment" :"Est sunt velit incididunt occaecat laboris.",
+                "image" : "https://socketimagescdn.azureedge.net/cdn/images/default-source/default-album/flutter-socket-mobile-webinar.png?sfvrsn=cc8301ae_1"
+            },
+            {
+                "name" : "Webinar industry 4.0",
+                "comment": "Est sunt velit incididunt occaecat laboris.",
+                "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8FNANjB7eALKIRlk78An8_5CbTrFdq3WZmQ&usqp=CAU"
+
+            },
+            {
+                "name": "Bootcam flutter",
+                "comment": "Est sunt velit incididunt occaecat laboris.",
+                "image": "https://www.filepicker.io/api/file/sXz6u6kMQzK9uXkCwtPv"
+            },
+            {
+                "name" : "Course express JS",
+                "comment" :"Est sunt velit incididunt occaecat laboris.",
+                "image" : "https://d3hi6wehcrq5by.cloudfront.net/itnavi-blog/2021/07/Expressjs-la-gi-1.jpg"
+            },
+            {
+                "name" : "Course Java JSP",
+                "comment": "Est sunt velit incididunt occaecat laboris.",
+                "image" : "https://www.trainingnepal.com/wp-content/uploads/2018/04/JSP-course.jpg"
+
+            },
+            {
+                "name": "Bootcam .Net ASP",
+                "comment": "Est sunt velit incididunt occaecat laboris.",
+                "image": "https://www.ictacademy.in/pages/assets/base/img/content/stock/asp.jpg"
+            }
+        ]
+    }
+}

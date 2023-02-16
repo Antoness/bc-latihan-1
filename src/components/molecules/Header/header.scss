@@ -1,0 +1,58 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+    background-color: black;
+
+    .logo {
+        display: flex;
+        height: 30px;
+        width: 30px;
+    }
+
+    .label {
+        display: flex;
+        font-size: 20px;
+        font-weight: bold;
+        color: aliceblue;
+        align-items: center;
+        margin: 0;
+    }
+
+    .search-bar {
+        margin-inline-start: auto;
+        justify-content: space-between;
+    }
+
+    .me-2 {
+        outline: 0;
+        width: 200px;
+        background: #fff;
+        padding: 10px;
+        border-radius: 5px 0 0 5px;
+    }
+
+    .btn-search {
+        background: #0099ff;
+        color: #fff;
+        padding: 10px 20px;
+        border-radius: 0 5px 5px 0;
+
+    }
+    .account{
+        height: 40px;
+        display: flex;
+        justify-content: space-between;
+        padding-top: 5px;
+    }
+
+    .form-search {
+        width: 100%;
+
+        .form-content {
+            display: flex;
+            justify-content: space-between;
+        }
+    }
+}
